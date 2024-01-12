@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alice-njf.github.io/al-folio/sitemap.xml
+Sitemap: https://alice-njf.github.io/sitemap.xml
